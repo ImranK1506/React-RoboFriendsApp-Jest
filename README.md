@@ -1,12 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## React + Redux - RoboFriends App (PWA)
+## React + Redux - RoboFriends App (PWA) with Jest
 
 In this project we create some card components with data obtained from an API. This project was setup to play around with React.
 
 ## Live Preview
 
-[RoboFriends App PWA](https://imrank1506.github.io/React-RoboFriendsApp-PWA/)
+[RoboFriends App PWA](https://imrank1506.github.io/React-RoboFriendsApp-Jest/)
 
 ## Available Scripts
 

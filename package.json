@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://imrank1506.github.io/React-RoboFriendsApp-PWA",
+  "homepage": "https://imrank1506.github.io/React-RoboFriendsApp-Jest",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.2",

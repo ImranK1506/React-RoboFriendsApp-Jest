@@ -1,5 +1,5 @@
 import React from 'react';
-import { shallow, mount, render } from 'enzyme';
+import { shallow, mount, render } from 'enzyme/build';
 import CounterButton from './CounterButton';
 
 it('should render CounterButton component', () => {

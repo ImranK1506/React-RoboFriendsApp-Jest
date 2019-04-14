@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import CounterButton from './CounterButton';
+import CounterButton from './CounterButton/CounterButton';
 
 class Header extends Component {
    // React Lifecycle hook

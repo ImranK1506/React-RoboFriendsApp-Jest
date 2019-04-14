@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import CardList from '../CardList/CardList';
 import SearchBox from '../SearchBox';
 import Scroll from '../Scroll';
-import ErrorBoundary from '../ErrorBoundary'
+import ErrorBoundary from '../ErrorBoundary/ErrorBoundary'
 import Header from '../Header';
 // import { robots } from "./robots";
 import './MainPage.css'
